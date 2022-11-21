@@ -1,8 +1,15 @@
 a = int(input())
 b = int(input())
-if a%b == 0:
-    print("%d делится на %d" % (a,b))
+if a % b == 0:
+  print('делится')
 else:
-    print("%d не делится на %d" % (a,b))
-    print("Остаток: %d" % (a%b))
-print("Частное: %d" % (a//b))
+  print('не делится')
+
+c = a % b
+print('Остаток')
+print(c)
+
+d = a // b
+print('частное')
+print(d)
+  
