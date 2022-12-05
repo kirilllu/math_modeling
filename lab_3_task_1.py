@@ -1,0 +1,10 @@
+earth_mass = 5.97237 * 10**30
+sigma_steff_bolc = 5.67036713 * 10**(-8)
+gravity_constant = 6.67408 * 10**(-11)
+electron_mass = 9.11 * 10**(-31)
+proton_mass = 1.67 * 10**(-27)
+neutron_mass = 1.675 * 10*(-27)
+Avogadro_constant = 6.02 * 10*(23)
+Boltzmann_constant = 1.38 * 10*(-23)
+elementary_charge = 1.6 * 10*(-19)
+Planck_constant = 6.63 * 10*(-34)
